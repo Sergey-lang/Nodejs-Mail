@@ -1,0 +1,20 @@
+{
+  "name": "Nodejs-mail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergey-lang/Nodejs-mail.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergey-lang/Nodejs-mail/issues"
+  },
+  "homepage": "https://github.com/Sergey-lang/Nodejs-mail#readme"
+}

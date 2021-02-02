@@ -28,6 +28,7 @@ let transporter = nodemailer.createTransport({
 app.post('/sendPost', async (req, res) => {
 
     let {email, name, message} = req.body
+    //check data
     console.log(name)
     console.log(email)
     console.log(message)
